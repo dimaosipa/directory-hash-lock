@@ -46,6 +46,6 @@
     "file monitoring"
   ],
   "dependencies": {
-    "minimatch": "^9.0.0"
+    "minimatch": "^10.2.1"
   }
 }
